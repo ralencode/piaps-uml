@@ -1,19 +1,17 @@
 # Lab10
 
 ## Use Case Diagram
-![UseCase](https://github.com/IgorPustylnik/piaps-lab10/blob/main/Media/UseCase.png)
+![UseCase](https://github.com/ralencode/piaps-uml/blob/main/media/UseCase.png)
 
 ## Class Diagram
-![Class](https://github.com/IgorPustylnik/piaps-lab10/blob/main/Media/Class.png)
+![Class](https://github.com/ralencode/piaps-uml/blob/main/media/Class.png)
 
 ## Sequence Diagram
-![Sequence](https://github.com/IgorPustylnik/piaps-lab10/blob/main/Media/Sequence.png)
+![Sequence](https://github.com/ralencode/piaps-uml/blob/main/media/Sequence.png)
 
 ## Activity Diagram
-![Class](https://github.com/IgorPustylnik/piaps-lab10/blob/main/Media/Activity.png)
+![Class](https://github.com/ralencode/piaps-uml/blob/main/media/Activity.png)
 
 ## Reverse Engineered Class Diagram
-![Class](https://github.com/IgorPustylnik/piaps-lab10/blob/main/Media/ClassReverseEngineered.png)
-
-
+![Class](https://github.com/ralencode/piaps-uml/blob/main/media/ClassReverseEngineered.png)
 
